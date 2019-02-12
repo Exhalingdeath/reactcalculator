@@ -1,0 +1,9 @@
+.buttonframe{
+    vertical-align: top;
+    overflow: hidden;
+    display: inline-block;
+    margin: 0 auto;
+    height: 100%;
+    
+    width: 25%
+}

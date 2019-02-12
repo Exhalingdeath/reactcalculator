@@ -1,0 +1,10 @@
+.operationbutton{
+    display: inline-block;
+    float: left;
+    margin: 0px;
+    padding: 2%;
+    width: 25%;
+    color: blue;
+    background-color: rgb(186, 238, 144);
+    font-size: 150%;
+}

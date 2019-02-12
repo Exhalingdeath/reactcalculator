@@ -1,0 +1,15 @@
+.numberbutton{
+    display: inline-block;
+    float: left;
+    margin: 0px;
+    padding: 2%;
+    width: 25%;
+    color: red;
+    background-color: lightgreen;
+    border-top-color: rgb(192, 240, 192);
+    border-left-color: rgb(192,240,192);
+    border-right-color: rgb(142,230,142);
+    border-bottom-color: rgb(142, 230, 142);
+    
+    font-size: 150%;
+}

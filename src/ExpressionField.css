@@ -1,0 +1,13 @@
+.expressionfield{
+    width: 99%;
+    text-align: right;
+    font-size: 100%;
+    padding-top:2%;
+    padding-bottom: 2%;
+    background-color: lightgray;
+    border-color: black;
+    border-left-color: white;
+    border-top-color: white;
+    border-right-color: darkgrey;
+    
+}

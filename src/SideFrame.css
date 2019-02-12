@@ -1,0 +1,9 @@
+.sideframe{
+    vertical-align: top;
+    background-color: rgb(51, 44, 44);
+    border: 2px solid darkgrey;
+    display: inline-block;
+    height: 100%;
+    width: 35.25%;
+    margin: -2px;
+}
